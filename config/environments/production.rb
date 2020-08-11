@@ -74,8 +74,8 @@ config.action_mailer.raise_delivery_errors = true
     :address        => 'smtp.sendgrid.net',
     :port           => '465',
     :authentication => :plain,
-    :user_name      => ENV['SENDGRID_USERNAME'],
-    :password       => ENV['SENDGRID_PASSWORD'],
+    :user_name      => 'apikey',
+    :password       => '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',
     :domain         => 'heroku.com',
     :enable_starttls_auto => true
   }
