@@ -7,6 +7,8 @@ Username: example@railstutorial.org
 
 Password: password
 
+[Demo](https://warm-bayou-61890.herokuapp.com/)
+
 :exclamation::exclamation:
 
 This is the sample application for
