@@ -1,9 +1,12 @@
+
 # Ruby on Rails Tutorial sample application
 
 :exclamation::exclamation:UPDATE 08/31/2020: Currently having trouble with SendGrid's API (not covered in the Tutorial). To demo, please login with:
 
 Username: example@railstutorial.org
+
 Password: password
+
 :exclamation::exclamation:
 
 This is the sample application for
